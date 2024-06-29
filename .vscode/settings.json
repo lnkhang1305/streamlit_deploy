@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "aio-exercise",
+        "projectKey": "lnkhang1305_streamlit_deploy"
+    }
+}
